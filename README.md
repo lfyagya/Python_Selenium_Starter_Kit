@@ -1,7 +1,7 @@
 # Selenium Python Starter Kit
 
 This is a starter kit for setting up a Selenium project with Python using the Page Object Model (POM) structure.
-Document Link: https://docs.google.com/document/d/1_sglLM5AnCgm41qooqz66uLTOe9_r4b8FD4jqgI29sc/edit?usp=sharing
+- **Document Link**: https://docs.google.com/document/d/1_sglLM5AnCgm41qooqz66uLTOe9_r4b8FD4jqgI29sc/edit?usp=sharing
 
 ## Project Structure
 
