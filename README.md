@@ -12,7 +12,7 @@ This is a starter kit for setting up a Selenium project with Python using the Pa
 
 ## Setup
 
-1. Clone the repository: `git clone git@github.com:lfyagya/Python_Selenium_Starter_Kit.git`.
+1. Clone the repository: ``git clone git@github.com:lfyagya/Python_Selenium_Starter_Kit.git``.
 2. Install Pipenv if not already installed: `pip install pipenv`
 3. Install dependencies: `pipenv install`
 4. Activate the virtual environment: `pipenv shell`
