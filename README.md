@@ -1,6 +1,7 @@
 # Selenium Python Starter Kit
 
 This is a starter kit for setting up a Selenium project with Python using the Page Object Model (POM) structure.
+Document Link: https://docs.google.com/document/d/1_sglLM5AnCgm41qooqz66uLTOe9_r4b8FD4jqgI29sc/edit?usp=sharing
 
 ## Project Structure
 
@@ -12,8 +13,23 @@ This is a starter kit for setting up a Selenium project with Python using the Pa
 
 ## Setup
 
-1. Clone the repository: ``git clone git@github.com:lfyagya/Python_Selenium_Starter_Kit.git``.
-2. Install Pipenv if not already installed: `pip install pipenv`
-3. Install dependencies: `pipenv install`
-4. Activate the virtual environment: `pipenv shell`
-5. Run tests: `pytest {test folder name}/{test script file name}: pytest Test/test_login.py`
+1. Clone the repository:
+```bash
+git clone git@github.com:lfyagya/Python_Selenium_Starter_Kit.git
+```
+2. Install Pipenv if not already installed:
+```bash
+pip install pipenv
+```
+3. Install dependencies:
+```bash
+pipenv install
+```
+4. Activate the virtual environment:
+```bash
+pipenv shell
+```
+7. Run tests: `pytest {test folder name}/{test script file name}:` 
+```bash
+pytest Test/test_login.py
+```
